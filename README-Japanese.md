@@ -21,7 +21,7 @@
 
 # IT妖怪の研究
 
-<img alt="Home Lab" src="pictures/HomeLab.png" width="50%">
+<img alt="Home Lab" src="pictures/HomeLab.png" width="100%">
 
 日々のテクノロジーを使用する中で数々の不可解な現象を経験し、妖怪の存在について知るうちに、  
 これらの現象のいくつかは、実は妖怪によって引き起こされているのではないかと疑念を抱くようになりました。  
