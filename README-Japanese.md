@@ -1,6 +1,6 @@
 <div align="center">
  <p>
-    <img alt="Yokai Logo" src="pictures/Logo.png" width="60%">
+    <img alt="Yokai Logo" src="pictures/Logo.png" width="75%">
  </p>
   [<a href="README.md">English</a>] | [<b>日本語</b>]
 </div>
