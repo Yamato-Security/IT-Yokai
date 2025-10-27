@@ -415,10 +415,12 @@ Letters vanish, wheels cease to turn, and the sound of human sighs becomes the o
 **Kikinagashiki, The Demon of Deaf Ears**, is a subtle yet pervasive Yōkai that dwelleth in the minds of those who have “heard it all before.”  
 Born from endless awareness campaigns and unread memos, it transforms security guidance into background noise.  
 
-When the team proclaimeth, *“Update your passwords!”*, the cursed hear only *“blah, blah, policy.”*  
-When told *“Enable MFA,”* they nod sagely, then forget.  
+When the security team proclaimeth, *“Update your passwords!”*, the cursed hear only *“blah, blah, policy.”*  
+
+When told *“Enable MFA,”* they nod sagely, then forget.
+
 And when calamity striketh, Kikinagashiki whispereth:  
-> “I merely turned their heed aside — they chose not to listen.”
+> “I merely brought out their lazy nature — **they** chose not to listen.”
 
 ### Nature
 * Feeds upon indifference, overconfidence, and alert fatigue.  
