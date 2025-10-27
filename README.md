@@ -21,7 +21,7 @@ If you ever wondered why people on the trains are so expression-less, it is ofte
 
 # IT Yōkai Collection
 
-<img alt="Home Lab" src="pictures/HomeLab.png" width="75%">
+<img alt="Home Lab" src="pictures/HomeLab.png" width="100%">
 
 After experiencing many strange unexplained phenomena with daily technology and learning about the Yōkai, I started to suspect that some of these phenomena may actually be caused by them.
 To confirm my hypothesis, for the past 10 years, I have been researching in the field using Psychokinetic Energy Meters and modified Ectoplasmic Flux Sensors blessed by [Shintō](https://en.wikipedia.org/wiki/Shinto) priests to detect and monitor invisible Yōkai interacting with our modern technology.
