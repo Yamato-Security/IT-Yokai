@@ -280,6 +280,7 @@ Thus mortals curse her even as she saves them.
 * Loyal but loud; when she rises, all else must endure her wailing.
 * When neglected, she grows sluggish, allowing Shakunetsuki to return.
 * When overburdened, she shrieks endlessly in protest.
+* Fūreibā screams particularly loud on old Macbook Pros and whenever anyone opens Teams.
 
 ### Balance of the two:
 * The two Yōkai exist in eternal struggle — the flame and the wind, locked in a cycle of noise and heat.
@@ -437,6 +438,40 @@ And when calamity striketh, Kikinagashiki whispereth:
 
 ### Ancient Kikinagashiki Haiku
 笛鳴れど　耳は遠くて　鬼ぞ笑ふ  (Though the flute soundeth — the ears turn away - the demon laughes.)
+
+---
+
+## Saiki Dōji（再起童子） — The Reboot Child
+
+<img alt="Saiki Dōji（再起童子） — The Reboot Child" src="pictures/Saikidouji.png" width="50%">
+
+In the world of machines, there exists a small, kind Yōkai known as **Saiki Dōji** — the spirit of reboot and renewal.  
+When devices falter, freeze, or lose their way, this little being awakens at the moment the user presses the sacred button of restart.  
+With a single sigh of light, it closes all processes, clears the path, and breathes life back into what was once lost.  
+
+It is said that Saiki Dōji wanders through the sleeping circuits of computers, touching each one gently.  
+Where it passes, old code is refreshed, dust is forgotten, and even weary processors grow **young and energetic again — as lively as the child spirit itself.**  
+
+To those who despair before the darkened screen, it grants one simple revelation:  
+
+> “Reboot, and all shall be well.”  
+
+### Nature
+* Appears when machines become sluggish or strange errors occur.  
+* Feeds on the act of restart — order reborn from chaos.  
+* Revives computers, making them young, light, and lively once more.  
+* Leaves no trace but renewed function and a faint sense of peace.  
+
+### Rite of Invocation
+* Press the sacred button of power with calm intent.  
+* Whisper softly: “Restart, little one, bring harmony anew.”  
+* Await the second dawn — when the screen lights once more, give thanks.  
+
+### Ancient Saiki Dōji Haiku  
+
+落ちし声　息を吹き返し　再び灯る  (The fallen voice — breath returns — and light rekindles once more.)
+
+---
 
 # License
 
