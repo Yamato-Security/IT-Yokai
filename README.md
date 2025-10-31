@@ -475,7 +475,7 @@ To those who despair before the darkened screen, it grants one simple revelation
 
 # Fun facts about “Bugs”
 
-* The original meaning of **“bug”** in Middle English (around *1395*) — written as *bugge* — referred to terrifying creatures from folklore: ghosts, troublesome spirits, bogeymen, etc.  
+* The original meaning of **“bug”** in Middle English (late 1300s) — written as *bugge* — referred to terrifying creatures from folklore: ghosts, hobgoblins, troublesome spirits, bogeymen, etc.  
   → In other words, a very similar meaning to **Yōkai (妖怪)**!  
 * By the **1600s**, the term began to refer to **insects**.  
 * Around **1875**, **Thomas Edison** [popularized (and possibly coined)](https://www.alliterative.net/bug-transcript) the term *“bug”* to describe **technical defects or malfunctions** in machinery and engineering.  
