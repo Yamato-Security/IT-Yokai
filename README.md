@@ -490,4 +490,4 @@ Feel free to use, share and adapt as long as you give proper attribution, do not
 
 # Author
 
-Zach Mathis (@yamatosecurity)
+Zach Mathis ([@yamatosecurity](https://x.com/yamatosecurity))

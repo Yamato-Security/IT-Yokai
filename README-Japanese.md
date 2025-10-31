@@ -659,4 +659,4 @@
 
 # 作者
 
-田中ザック（[@yamatosecurity](https://twitter.com/yamatosecurity)）
+田中ザック（[@yamatosecurity](https://x.com/yamatosecurity)）
